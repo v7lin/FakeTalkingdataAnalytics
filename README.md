@@ -1,6 +1,6 @@
 # FakeTalkingdataAnalytics
 
-[![CI Status](https://img.shields.io/travis/v7lin@qq.com/FakeTalkingdataAnalytics.svg?style=flat)](https://travis-ci.org/v7lin@qq.com/FakeTalkingdataAnalytics)
+[![CI Status](https://img.shields.io/travis/v7lin/FakeTalkingdataAnalytics.svg?style=flat)](https://travis-ci.org/v7lin/FakeTalkingdataAnalytics)
 [![Version](https://img.shields.io/cocoapods/v/FakeTalkingdataAnalytics.svg?style=flat)](https://cocoapods.org/pods/FakeTalkingdataAnalytics)
 [![License](https://img.shields.io/cocoapods/l/FakeTalkingdataAnalytics.svg?style=flat)](https://cocoapods.org/pods/FakeTalkingdataAnalytics)
 [![Platform](https://img.shields.io/cocoapods/p/FakeTalkingdataAnalytics.svg?style=flat)](https://cocoapods.org/pods/FakeTalkingdataAnalytics)
@@ -22,7 +22,7 @@ pod 'FakeTalkingdataAnalytics'
 
 ## Author
 
-v7lin@qq.com, v7lin@qq.com
+v7lin, v7lin@qq.com
 
 ## License
 
