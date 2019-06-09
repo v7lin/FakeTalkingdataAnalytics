@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FakeTalkingdataAnalytics'
-  s.version          = '4.0.21'
+  s.version          = '4.0.33'
   s.summary          = 'FakeTalkingdataAnalytics'
 
 # This description is used to generate tags and improve search results.
